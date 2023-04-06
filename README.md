@@ -1,7 +1,7 @@
 # English-Improvement-App--React--Native
 
 
-# English Learning App  (REACT NATIVE)
+# English Learning App - React Native
 #### These days, learning a new language has become popular. As more people worldwide want to acquire more languages, the trend of studying a foreign language at home is constantly expanding. While some of them look for fun and efficient methods to learn new languages, others look for the perfect answer, particularly by making education accessible on the web and mobile platforms.
 #### Our English learning and improvement software offers learning objectives for English grammar, pronunciation, words, and many other topics.
 #### You can evaluate your knowledge and vocabulary by using a lexicon.
