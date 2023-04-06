@@ -1,6 +1,3 @@
-# English-Improvement-App--React--Native
-
-
 # English Learning App - React Native
 #### These days, learning a new language has become popular. As more people worldwide want to acquire more languages, the trend of studying a foreign language at home is constantly expanding. While some of them look for fun and efficient methods to learn new languages, others look for the perfect answer, particularly by making education accessible on the web and mobile platforms.
 #### Our English learning and improvement software offers learning objectives for English grammar, pronunciation, words, and many other topics.
@@ -49,5 +46,7 @@ See [Getting Started](https://facebook.github.io/react-native/docs/getting-start
  - [react-native-tts](https://github.com/ak1394/react-native-tts) `4.1.0`
  - [@react-native-voice/voice](https://github.com/react-native-voice/voice) 
  
+## Disclaimer
 
+This app is built only for learning purposes.
  
