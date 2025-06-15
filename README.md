@@ -28,12 +28,12 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/nareshsuthardev/English-Improvement-App--React--Native/blob/main/Screenshots/study.jpg" alt="Screenshot 1" height="150px">
+        <img src="https://github.com/nareshsuthardev/English-Improvement-App--React--Native/blob/main/Screenshots/study.jpg" alt="Screenshot 1" height="500px">
         <br>
         <sub><b>Feature 1</b></sub>
       </td>
       <td align="center">
-        <img src="https://github.com/nareshsuthardev/English-Improvement-App--React--Native/blob/main/Screenshots/study.jpg" alt="Screenshot 2" height="150px">
+        <img src="https://github.com/nareshsuthardev/English-Improvement-App--React--Native/blob/main/Screenshots/study.jpg" alt="Screenshot 2" height="500px">
         <br>
         <sub><b>Feature 2</b></sub>
       </td>
