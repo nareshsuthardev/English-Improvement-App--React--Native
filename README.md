@@ -23,6 +23,25 @@
 
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/nareshsuthardev/English-Improvement-App--React--Native/blob/main/Screenshots/study.jpg" alt="Screenshot 1" height="150px">
+        <br>
+        <sub><b>Feature 1</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://github.com/nareshsuthardev/English-Improvement-App--React--Native/blob/main/Screenshots/study.jpg" alt="Screenshot 2" height="150px">
+        <br>
+        <sub><b>Feature 2</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 ##  Screenshots
 |  |    |
 | :---- | :--- | 
