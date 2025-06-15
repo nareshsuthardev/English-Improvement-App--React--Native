@@ -21,8 +21,7 @@
 - Poetry and Story Reading
 
 ##  Screenshots
-|  |    |
-| :---- | :--- | 
+
 <div align="center">
   <table>
     <tr>
@@ -49,7 +48,7 @@
         <sub><b>Exercises Screen</b></sub>
       </td>
       <td align="center">
-        <img src="https://github.com/nareshsuthardev/English-Improvement-App--React--Native/blob/main/Screenshots/Exercises.png2" alt="Screenshot 1" height="500px">
+        <img src="https://github.com/nareshsuthardev/English-Improvement-App--React--Native/blob/main/Screenshots/Exercises2.png2" alt="Screenshot 1" height="500px">
         <br>
         <sub><b>Exercises Screen</b></sub>
       </td>
@@ -80,17 +79,17 @@
       <td align="center">
         <img src="https://github.com/nareshsuthardev/English-Improvement-App--React--Native/blob/main/Screenshots/StudySection.png" alt="Screenshot 1" height="500px">
         <br>
-        <sub><b>Dictionary Screen</b></sub>
+        <sub><b>Explore Screen</b></sub>
       </td>
       <td align="center">
         <img src="https://github.com/nareshsuthardev/English-Improvement-App--React--Native/blob/main/Screenshots/StoriesScreen.png" alt="Screenshot 2" height="500px">
         <br>
-        <sub><b>Dictionary Screen</b></sub>
+        <sub><b>Articles Screen</b></sub>
       </td>
       <td align="center">
         <img src="https://github.com/nareshsuthardev/English-Improvement-App--React--Native/blob/main/Screenshots/StoriesListScreen.png" alt="Screenshot 2" height="500px">
         <br>
-        <sub><b>Dictionary Screen</b></sub>
+        <sub><b>Stories List Screen</b></sub>
       </td>
     </tr>
   </table>
