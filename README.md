@@ -48,7 +48,7 @@
         <sub><b>Exercises Screen</b></sub>
       </td>
       <td align="center">
-        <img src="https://github.com/nareshsuthardev/English-Improvement-App--React--Native/blob/main/Screenshots/Exercises2.png2" alt="Screenshot 1" height="500px">
+        <img src="https://github.com/nareshsuthardev/English-Improvement-App--React--Native/blob/main/Screenshots/Exercises2.png" alt="Screenshot 1" height="500px">
         <br>
         <sub><b>Exercises Screen</b></sub>
       </td>
