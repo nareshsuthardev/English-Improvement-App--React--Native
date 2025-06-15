@@ -28,7 +28,7 @@
 | :---- | :--- | 
 |  ![App Screenshot](English-Improvement-App--React--Native/Screenshots/study.jpg)  | ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here) |
 
-
+![App Screenshot]([English-Improvement-App--React--Native/Screenshots/study.jpg](https://github.com/nareshsuthardev/English-Improvement-App--React--Native/blob/main/Screenshots/study.jpg))
 
 
 
