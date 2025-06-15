@@ -20,34 +20,81 @@
 - Vocabulary
 - Poetry and Story Reading
 
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-
+##  Screenshots
+|  |    |
+| :---- | :--- | 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/nareshsuthardev/English-Improvement-App--React--Native/blob/main/Screenshots/study.jpg" alt="Screenshot 1" height="500px">
+        <img src="https://github.com/nareshsuthardev/English-Improvement-App--React--Native/blob/main/Screenshots/splashScreen.png" alt="Screenshot 1" height="500px">
         <br>
-        <sub><b>Feature 1</b></sub>
+        <sub><b>Splash Screen</b></sub>
       </td>
       <td align="center">
-        <img src="https://github.com/nareshsuthardev/English-Improvement-App--React--Native/blob/main/Screenshots/study.jpg" alt="Screenshot 2" height="500px">
+        <img src="https://github.com/nareshsuthardev/English-Improvement-App--React--Native/blob/main/Screenshots/HomeScreen.png" alt="Screenshot 2" height="500px">
         <br>
-        <sub><b>Feature 2</b></sub>
+        <sub><b>Home Screen</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://github.com/nareshsuthardev/English-Improvement-App--React--Native/blob/main/Screenshots/UserPrifile.png" alt="Screenshot 2" height="500px">
+        <br>
+        <sub><b>User Profile Screen</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/nareshsuthardev/English-Improvement-App--React--Native/blob/main/Screenshots/Exercises1.png" alt="Screenshot 1" height="500px">
+        <br>
+        <sub><b>Exercises Screen</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://github.com/nareshsuthardev/English-Improvement-App--React--Native/blob/main/Screenshots/Exercises.png2" alt="Screenshot 1" height="500px">
+        <br>
+        <sub><b>Exercises Screen</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://github.com/nareshsuthardev/English-Improvement-App--React--Native/blob/main/Screenshots/Exercises3.png" alt="Screenshot 1" height="500px">
+        <br>
+        <sub><b>Exercises Screen</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/nareshsuthardev/English-Improvement-App--React--Native/blob/main/Screenshots/PronounciationScreen1.png" alt="Screenshot 1" height="500px">
+        <br>
+        <sub><b>Pronounciation Screen</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://github.com/nareshsuthardev/English-Improvement-App--React--Native/blob/main/Screenshots/PronounciationScreen2.png" alt="Screenshot 1" height="500px">
+        <br>
+        <sub><b>Pronounciation Screen</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://github.com/nareshsuthardev/English-Improvement-App--React--Native/blob/main/Screenshots/PronounciationScreen3.png" alt="Screenshot 1" height="500px">
+        <br>
+        <sub><b>Pronounciation Screen</b></sub>
+      </td>
+    </tr>
+        <tr>
+      <td align="center">
+        <img src="https://github.com/nareshsuthardev/English-Improvement-App--React--Native/blob/main/Screenshots/StudySection.png" alt="Screenshot 1" height="500px">
+        <br>
+        <sub><b>Dictionary Screen</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://github.com/nareshsuthardev/English-Improvement-App--React--Native/blob/main/Screenshots/StoriesScreen.png" alt="Screenshot 2" height="500px">
+        <br>
+        <sub><b>Dictionary Screen</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://github.com/nareshsuthardev/English-Improvement-App--React--Native/blob/main/Screenshots/StoriesListScreen.png" alt="Screenshot 2" height="500px">
+        <br>
+        <sub><b>Dictionary Screen</b></sub>
       </td>
     </tr>
   </table>
 </div>
-
-
-##  Screenshots
-|  |    |
-| :---- | :--- | 
-|  ![App Screenshot](English-Improvement-App--React--Native/Screenshots/study.jpg)  | ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here) |
-
-![App Screenshot](https://github.com/nareshsuthardev/English-Improvement-App--React--Native/blob/main/Screenshots/study.jpg).
 
 
 
